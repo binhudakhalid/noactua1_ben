@@ -1,0 +1,18 @@
+bcast 
+allreduce 
+
+## Collective blocking
+
+| name          |  JobID|  status|
+|---------------|-----------|-------|
+|allgather|   | seems like going to fail  |
+|allgatherv|  |  |
+|allreduce| 2363699 | |
+|alltoall|   ||
+|alltoallv|  ||
+|bcast| 2363698||
+|gather|  ||
+|gatherv|  ||
+|reduce|  2363700  ||
+|scatter|  ||
+|scatterv| ||
